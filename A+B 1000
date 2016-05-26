@@ -3,9 +3,7 @@ b = int(raw_input(" "))
 result = str(a + b)
 print (result)
 
-"
-Не могу понять, почему мое решение задачи не принимает, хотя в PyCharm работают оба решения
-http://acm.timus.ru/problem.aspx?space=1&num=1000
-"
+# Не могу понять, почему мое решение задачи не принимает, хотя в PyCharm работают оба решения
+# http://acm.timus.ru/problem.aspx?space=1&num=1000
 
 print sum(int(x) for x in raw_input().split(' ')) # Вариант решения с сайта
